@@ -1,0 +1,9 @@
+> ola created.
+> oscar is now part of ola. This is ze role 1.
+> Unknown actor category!
+> dt is now part of ola. This is diogo role 1.
+> Exception in thread "main" java.lang.AssertionError
+	at Characters.AbstractCharacterClass.addParent(AbstractCharacterClass.java:64)
+	at DataBase.DataBaseClass.addRelationship(DataBaseClass.java:160)
+	at Main.addRelationship(Main.java:341)
+	at Main.main(Main.java:142)
